@@ -1,6 +1,7 @@
 
  ## Hi, I’m @CptBackpack!
-**About me**
+**About me**  
+  
 I've got a degree in software engineering and, at the moment, I'm working as a PHP developer for an ambitious start-up.   
 My objective, for the future, is to learn game development and start my own game development indie studio.
 
