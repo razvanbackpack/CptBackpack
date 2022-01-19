@@ -7,7 +7,7 @@ My objective, for the future, is to learn game development and start my own indi
 
 **Where can you find me?**
 - E-mail: razvan.truta@outlook.com  
-- Internet: https://razvantruta.net
+
 
 <!---
 CptBackpack/CptBackpack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
