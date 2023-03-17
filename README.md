@@ -3,6 +3,7 @@
 **About me**  
   
 I've got a degree in Software Engineering, and I'm working as a full-stack developer.
+I'm also pretty enthusiastic to learn, and try out, new things. I'm also a gamer and I love listening to music.
 
 **Where can you find me?**
 - E-mail: razvan.truta@outlook.com  
