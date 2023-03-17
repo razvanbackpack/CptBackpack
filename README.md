@@ -2,8 +2,7 @@
  ## Hi, I’m @CptBackpack!
 **About me**  
   
-I've got a degree in software engineering and, at the moment, I'm working as a full-stack web developer.   
-My objective, for the future, is to learn game development and start my own indie game development studio.
+I've got a degree in Software Engineering, and I'm working as a full-stack developer.
 
 **Where can you find me?**
 - E-mail: razvan.truta@outlook.com  
